@@ -2,6 +2,7 @@
  * the Man 2021
  */
 
+// test test
 #include <stdio.h>
 #include <SDL.h>
 #include <SDL_timer.h>
@@ -9,6 +10,7 @@
 
 #define WINDOW_WIDTH (800)
 #define WINDOW_HEIGHT (600)
+#define TEST (10)
 
 // speed in pixels/second
 #define SPEED (300)
